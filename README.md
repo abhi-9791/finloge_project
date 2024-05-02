@@ -10,8 +10,8 @@ git clone `https://github.com/abhi-9791/finloge_project`
     python -m venv `fin_env`
     venv\Scripts\activate
 
-After activating the venv install django by following command
-    pip install django
+    After activating the venv install django by following command
+        pip install django
 # creation of project
     after installation create project and app using following commands
     djngo-admin startproject finloge_project
