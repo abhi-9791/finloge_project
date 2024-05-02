@@ -12,7 +12,8 @@ This project for finloge
 
 ### Install Django
 
-After activating the venv, install Django using the following command:
+After activating the venv install Django using the following command:
+
     pip install django
 
 # Creation of Project and App
@@ -25,7 +26,7 @@ After installation, create the project and app using the following commands:
 
 Install project dependencies:
 
-     pip install -r requirements/local.txt
+     pip install -r requirements.txt
 
 Create a superuser (optional):
     python manage.py createsuperuser
