@@ -30,11 +30,13 @@ Install project dependencies:
      pip install -r requirements.txt
 
 Create a superuser (optional):
+
     python manage.py createsuperuser
 
 ### Running the Server
 
-To run the development server, use the following command:
+To run the development server use the following command:
+
     python manage.py runserver
 
 The server will start at http://localhost:8000/
