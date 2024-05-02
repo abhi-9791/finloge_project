@@ -19,8 +19,8 @@ After activating the venv install Django using the following command:
 # Creation of Project and App
 
 After installation create the project and app using the following commands:
-        django-admin startproject finloge_project
-        py manage.py startapp finloge_app
+    django-admin startproject finloge_project
+    py manage.py startapp finloge_app
 
 ### Requirements for the Project
 
