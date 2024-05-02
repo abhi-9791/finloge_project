@@ -4,7 +4,7 @@ This project for finloge
 
 ### Clone the repository:
 
-git clone `https://github.com/abhi-9791/finloge_project`
+    git clone `https://github.com/abhi-9791/finloge_project`
 
 ### Create a virtual environment and activate it
     python -m venv `fin_env`
@@ -14,7 +14,7 @@ git clone `https://github.com/abhi-9791/finloge_project`
 
 After activating the venv install django by following command
     pip install django
-# creation of project
+# creation of project and app
     after installation create project and app using following commands
     djngo-admin startproject finloge_project
     py manage.py startapp finloge_app
