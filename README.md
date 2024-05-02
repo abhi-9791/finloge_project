@@ -23,8 +23,9 @@ After installation, create the project and app using the following commands:
 
 ### Requirements for the Project
 
-Install dependencies:
-    pip install -r requirements.txt
+Install project dependencies:
+
+     pip install -r requirements/local.txt
 
 Create a superuser (optional):
     python manage.py createsuperuser
