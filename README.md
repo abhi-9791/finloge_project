@@ -20,7 +20,7 @@ after installation create project and app using following commands
     djngo-admin startproject finloge_project
     py manage.py startapp finloge_app
 ### requirements for project
-    Install dependencies:
+Install dependencies:
         pip install -r requirements.txt
 
 Create a superuser (optional):
