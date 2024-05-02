@@ -12,10 +12,11 @@ This project for finloge
 
 ### install django
 
-After activating the venv install django by following command
+After activating the venv install django by following command:
     pip install django
 # creation of project and app
-    after installation create project and app using following commands
+
+after installation create project and app using following commands
     djngo-admin startproject finloge_project
     py manage.py startapp finloge_app
 ### requirements for project
