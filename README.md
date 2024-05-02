@@ -10,27 +10,33 @@ This project for finloge
     python -m venv `fin_env`
     venv\Scripts\activate
 
-### install django
+### Install Django
 
-After activating the venv install django by following command:
+After activating the venv, install Django using the following command:
     pip install django
-# creation of project and app
 
-after installation create project and app using following commands
-    djngo-admin startproject finloge_project
+# Creation of Project and App
+
+After installation, create the project and app using the following commands:
+    django-admin startproject finloge_project
     py manage.py startapp finloge_app
-### requirements for project
+
+### Requirements for the Project
+
 Install dependencies:
-        pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Create a superuser (optional):
-python manage.py createsuperuser
+    python manage.py createsuperuser
 
-### running server by following
-    
-    To run the development server, use the following command:
-        python manage.py runserver
-    The server will start at http://localhost:8000/
+### Running the Server
 
-###  info of our project
-        http://localhost:8000/coming_soon
+To run the development server, use the following command:
+    python manage.py runserver
+
+The server will start at http://localhost:8000/
+
+### Project Information
+
+For more information about our project, visit:
+    http://localhost:8000/coming_soon
