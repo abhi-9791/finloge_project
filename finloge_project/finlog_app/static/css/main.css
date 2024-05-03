@@ -1457,6 +1457,10 @@ input::-moz-focus-inner {
 /* -------------------------------------------------------------------
  * ## header logo
  * ------------------------------------------------------------------- */
+ @font-face {
+  font-family: 'MyFont';
+  src: url('/static/css/Eight One.ttf') format('truetype');
+}
 .header-logo {
   z-index: 101;
   display: inline-block;
@@ -1468,6 +1472,7 @@ input::-moz-focus-inner {
   position: absolute;
   right: 8rem;
   top: 50%;
+  
 }
 
 .header-logo a {
